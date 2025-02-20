@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ctt710amz-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/ctt710amz-dotnet-basic
